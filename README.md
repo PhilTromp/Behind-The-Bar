@@ -11,9 +11,9 @@
 
 ## Installation & Voraussetzungen
 *Release-Ordner:*
-https://gitlab.iue.fh-kiel.de/avr_ws2425/krause-trompetter/behind-the-bar/-/tree/main/Release?ref_type=heads
+https://github.com/PhilTromp/Behind-The-Bar/tree/main/Release
 
-*Um das Spiel zu instalieren kann man einfach das Repo entweder mit "git clone "https://gitlab.iue.fh-kiel.de/avr_ws2425/krause-trompetter/behind-the-bar.git"" klonen, oder eine .zip direkt hier bei git herunterladen und anschließend die .exe im "Release" Ordner ausführen*
+*Um das Spiel zu instalieren kann man einfach das Repo entweder mit "git clone "https://github.com/PhilTromp/Behind-The-Bar.git" klonen, oder eine .zip direkt hier bei git herunterladen und anschließend die .exe im "Release" Ordner ausführen*
 
 - *Hardware(Brille und PC der Uni):*
 
