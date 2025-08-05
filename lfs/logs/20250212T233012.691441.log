@@ -1,0 +1,49 @@
+git-lfs/3.6.0 (GitHub; darwin amd64; go 1.23.3)
+git version 2.39.3 (Apple Git-145)
+
+$ git-lfs prune
+Prune error: Git can't resolve ref: "HEAD"
+
+Git can't resolve ref: "HEAD"
+
+Current time in UTC:
+2025-02-12 22:30:12
+
+Environment:
+LocalWorkingDir=
+LocalGitDir=
+LocalGitStorageDir=
+LocalMediaDir=lfs/objects
+LocalReferenceDirs=
+TempDir=lfs/tmp
+ConcurrentTransfers=8
+TusTransfers=false
+BasicTransfersOnly=false
+SkipDownloadErrors=false
+FetchRecentAlways=false
+FetchRecentRefsDays=7
+FetchRecentCommitsDays=0
+FetchRecentRefsIncludeRemotes=true
+PruneOffsetDays=3
+PruneVerifyRemoteAlways=false
+PruneVerifyUnreachableAlways=false
+PruneRemoteName=origin
+LfsStorageDir=lfs
+AccessDownload=none
+AccessUpload=none
+DownloadTransfers=basic,lfs-standalone-file,ssh
+UploadTransfers=basic,lfs-standalone-file,ssh
+GIT_EXEC_PATH=/Applications/Xcode.app/Contents/Developer/usr/libexec/git-core
+
+Client IP addresses:
+fe80::44cf:7fff:fee2:3e65
+fe80::44cf:7fff:fee2:3e64
+fe80::e095:6dff:fe25:e802
+192.168.1.203 fe80::c66:333e:4f5:5369 fd2c:84ee:5dc1:0:1c99:cd09:8ad:abfe
+fe80::d480:21ff:fe9b:3637
+fe80::d480:21ff:fe9b:3637
+fe80::5cac:340d:6e20:b7ff
+fe80::649f:1e84:158b:5b32
+fe80::ce81:b1c:bd2c:69e
+fe80::d4e7:6731:2030:b74b
+fe80::bee1:c24f:99d2:a682
